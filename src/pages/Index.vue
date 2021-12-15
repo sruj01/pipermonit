@@ -85,7 +85,7 @@ export default defineComponent({
             <div class="mx-auto mt-8 text-gray-100 md:mt-6 md:max-w-lg md:text-center lg:text-lg">Start monitor up to <span class="font-weight-bold bg-blue-500">100 websites</span> without login.</div>
             <div class="flex flex-col items-center mt-8 text-center">
                 <span class="relative inline-flex w-full md:w-auto">
-                    <a href="/monitor" type="button" class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-blue-500 border border-transparent rounded-full md:w-auto hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-600">
+                    <a href="monitor/Index.vue" type="button" class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-blue-500 border border-transparent rounded-full md:w-auto hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-600">
                         Try it free
                     </a>
                 </span>
